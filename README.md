@@ -55,5 +55,6 @@ Due to the lack of effective analytics, the company suffered major losses in the
 - **Model Type:** Snowflake schema
 - **Entity Relationship Diagram:**
 
-  ![Entity Relationship Diagram](images/er-diagram.pn)
+  ![Entity Relationship Diagram](<img width="959" height="487" alt="data model" src="https://github.com/user-attachments/assets/97bc37e6-077d-4b2d-84a2-4c1d691271b3" />
+)
 
