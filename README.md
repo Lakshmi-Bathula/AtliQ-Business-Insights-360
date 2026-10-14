@@ -6,8 +6,8 @@ Welcome to my Business Insights 360 Power BI Project.This repository showcases a
 
 - [Introduction](#introduction)
 - [Problem-statement](#problem-statement)
-- [🗃️Data Sources](🗃️#data-sources)
-- [🧩Data Model](🧩#data-model)
+- [Data Sources](#data-sources)
+- [Data Model](#data-model)
 - [Usage](#usage)
 - [Visual Insights](#visual-insights)
 - [License](#license)
