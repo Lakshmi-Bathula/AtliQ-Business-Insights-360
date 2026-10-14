@@ -50,3 +50,10 @@ Due to the lack of effective analytics, the company suffered major losses in the
 - `targets` – Contains net sales, gross margin, and net profit targets by market
 - `marketshare` – Contains AtliQ's and competitors' market share data
 
+### Data Model 
+
+- **Model Type:** Snowflake schema
+- **Entity Relationship Diagram:**
+
+  ![Entity Relationship Diagram](images/er-diagram.pn)
+
