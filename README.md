@@ -129,4 +129,40 @@ Navigation panel for different views with interactive buttons:
 ![Executive View Dashboard](./Executive%20View.gif)
 
 ---
+<h2 style="margin-bottom: 5px;">✅ Project Outcome</h2>
+
+* Created an interactive Power BI dashboard to analyze business performance.
+* Combined business data into one dashboard for easy analysis.
+* Analyzed sales, profit, and financial performance.
+* Evaluated customer and product performance.
+* Monitored forecast accuracy and identified supply chain issues.
+* Identified areas for improvement across different departments.
+* Helped stakeholders make better data-driven business decisions.
+---
+## 🎓 Skills Learned
+
+### 💻 Technical Skills
+
+* Power BI report development and publishing
+* DAX measures and calculated columns
+* SQL data extraction and transformation
+* Data modeling using star and snowflake schemas
+* Dashboard development using interactive visuals, bookmarks, and drill-through
+* Power Query for data cleaning and transformation
+* Performance optimization in Power BI
+
+### 🤝 Soft Skills
+
+* Understanding business requirements and defining KPIs
+* Presenting insights through data storytelling
+* Project planning and execution
+* Version control using Git and GitHub
+* Communicating technical insights clearly to non-technical stakeholders
+---
+## 📊 Visual Insights
+
+**Live Dashboard:** https://tinyurl.com/37b6zu64
+
+**Video Presentation:** https://youtu.be/2Mn7Z2t9xfU
+
 
