@@ -75,13 +75,15 @@ All dashboards are built within Power BI and navigated via a centralized **Home 
 
 Navigation panel for different views with interactive buttons:
 
-* Finance View
-* Sales View
-* Marketing View
-* Supply Chain View
-* Executive View
-* Information
-* Support
+- Finance View
+- Sales View
+- Marketing View
+- Supply Chain View
+- Executive View
+- Information
+- Support
 
+![Home View Dashboard](./Home%20View.gif)
 
+---
 
