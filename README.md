@@ -86,4 +86,12 @@ Navigation panel for different views with interactive buttons:
 ![Home View Dashboard](./Home%20View.gif)
 
 ---
+### 2. 💰 Finance View
 
+* Full profit and loss statement
+* Track performance over time across customers, products, and markets
+* Designed to support financial analysis
+
+![Finance View Dashboard](./Finance%20View.gif)
+
+---
