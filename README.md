@@ -95,3 +95,38 @@ Navigation panel for different views with interactive buttons:
 ![Finance View Dashboard](./Finance%20View.gif)
 
 ---
+### 3. 📈 Sales View
+
+* Key metrics: Net Sales, Gross Margin, Gross Margin %
+* Evaluate customer performance
+
+![Sales View Dashboard](./sales%20View.gif)
+
+---
+### 4. 🎯 Marketing View
+
+* Key metrics: Net Sales, Gross Margin %, Net Profit, Net Profit %
+* Focuses on product-level performance
+
+![Marketing View Dashboard](./Marketing%20View.gif)
+
+---
+### 5. 🚚 Supply Chain View
+
+* Forecast accuracy and net errors
+* Customer- and product-wise analysis against last year
+* Helps identify gaps in planning and delivery
+
+![Supply Chain View Dashboard](./Supply%20Chain%20View.gif)
+
+---
+### 6. 🧑‍💼 Executive View
+
+* Consolidated key performance indicators (KPIs)
+* Market share insights
+* Provides a high-level overview to support strategic decision-making
+
+![Executive View Dashboard](./Executive%20View.gif)
+
+---
+
